@@ -4,8 +4,8 @@ export const NAV_ITEMS: NavItem[] = [
   { label: 'Home', href: 'https://verifiedbmbuy.com/' },
   { label: 'Shop', href: 'https://verifiedbmbuy.com/shop-verified-bm/' },
   { label: 'Blog', href: 'https://verifiedbmbuy.com/blog/' },
-  { label: 'Contact us', href: 'https://verifiedbmbuy.com/contact-verified-bm-buy/' },
-  { label: 'About us', href: 'https://verifiedbmbuy.com/about-verified-bm-buy/' },
+  { label: 'Contact', href: 'https://verifiedbmbuy.com/contact-verified-bm-buy/' },
+  { label: 'About', href: 'https://verifiedbmbuy.com/about-verified-bm-buy/' },
 ];
 
 export const WORK_SAMPLES = [
