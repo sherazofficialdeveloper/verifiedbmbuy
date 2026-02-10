@@ -9,19 +9,19 @@ export const NAV_ITEMS: NavItem[] = [
 ];
 
 export const WORK_SAMPLES = [
-  "public/Verified-BM-Buy-Business-manager-Sample-1.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-2.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-3.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-4.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-6.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-7.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-8.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-9.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-11.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-11.txt",
-  "public/Real-Documents-Verified-60x60.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-12.txt",
-  "public/Verified-BM-Buy-Business-manager-Sample-13.txt"
+  "/Verified-BM-Buy-Business-manager-Sample-1.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-2.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-3.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-4.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-6.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-7.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-8.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-9.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-11.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-11.txt",
+  "/Real-Documents-Verified-60x60.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-12.txt",
+  "/Verified-BM-Buy-Business-manager-Sample-13.txt"
 ];
 
 export const FAQS = [
