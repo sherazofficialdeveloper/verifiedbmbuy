@@ -33,7 +33,7 @@ const Header: React.FC = () => {
           </div>
 
           {/* Socials & CTA */}
-          <div className="hidden md:ms-8 lg:ms-2 lg:flex items-center gap-8">
+          <div className="hidden md:ms-16 lg:ms-2 lg:flex items-center gap-8">
             <div className="flex items-center gap-2.5">
               <SocialCircleLink href="https://www.facebook.com/vbmbuy" name="facebook" bgColor="#4267B2" />
               <SocialCircleLink href="https://x.com/VBMBuy" name="x" bgColor="#000000" />
