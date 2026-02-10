@@ -19,7 +19,7 @@ const Header: React.FC = () => {
             </a>
             
             {/* Desktop Nav */}
-            <nav className="hidden lg:flex items-center gap-10">
+            <nav className="hidden lg:flex items-center md:gap-8 xl:gap-10">
               {NAV_ITEMS.map((item) => (
                 <a 
                   key={item.label} 
